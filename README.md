@@ -29,6 +29,8 @@ Visited the Mars Facts webpage and used Pandas to scrape the table containing fa
 
 Used Pandas to convert the data to a HTML table string.
 
+.....
+
 
 
 ### Mars Hemispheres
